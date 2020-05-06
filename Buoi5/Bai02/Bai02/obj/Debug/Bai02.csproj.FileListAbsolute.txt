@@ -1,0 +1,10 @@
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\bin\Debug\Bai02.exe.config
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\bin\Debug\Bai02.exe
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\bin\Debug\Bai02.pdb
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\obj\Debug\Bai02.csprojAssemblyReference.cache
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\obj\Debug\Bai02.Form1.resources
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\obj\Debug\Bai02.exe
+C:\Users\GiaKhang\Desktop\THWInForm\Lab05\Bai02\Bai02\obj\Debug\Bai02.pdb
